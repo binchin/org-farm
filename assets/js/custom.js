@@ -17,10 +17,10 @@
 	// Header Sticky
 	$(window).on('scroll', function() {
 		if ($(this).scrollTop() >150){  
-			$('.org-farm-nav-style').addClass("is-sticky");
+			$('.obs-agro-nav-style').addClass("is-sticky");
 		}
 		else{
-			$('.org-farm-nav-style').removeClass("is-sticky");
+			$('.obs-agro-nav-style').removeClass("is-sticky");
 		}
 	});
 
@@ -278,7 +278,7 @@
 	setInterval(function() { makeTimer(); }, 300);
 
 	// Rimu Slider
-	$('.org-farm-slider').owlCarousel({
+	$('.obs-agro-slider').owlCarousel({
 		loop:true,
 		margin:0,
 		nav:true,
@@ -297,16 +297,16 @@
 	});
 
 	//Slider Text Animation
-	$(".org-farm-slider-area").on("translate.owl.carousel", function(){
-		$(".org-farm-slider-text span, .org-farm-slider-text h1, .org-farm-slider-text .typewrite").removeClass("animated fadeInUp").css("opacity", "0");
-		$(".org-farm-slider-text p").removeClass("animated fadeInDown").css("opacity", "0");
-		$(".org-farm-slider-text a").removeClass("animated fadeInDown").css("opacity", "0");
+	$(".obs-agro-slider-area").on("translate.owl.carousel", function(){
+		$(".obs-agro-slider-text span, .obs-agro-slider-text h1, .obs-agro-slider-text .typewrite").removeClass("animated fadeInUp").css("opacity", "0");
+		$(".obs-agro-slider-text p").removeClass("animated fadeInDown").css("opacity", "0");
+		$(".obs-agro-slider-text a").removeClass("animated fadeInDown").css("opacity", "0");
 	});
 	
-	$(".org-farm-slider-area").on("translated.owl.carousel", function(){
-		$(".org-farm-slider-text span, .org-farm-slider-text h1, .org-farm-slider-text .typewrite").addClass("animated fadeInUp").css("opacity", "1");
-		$(".org-farm-slider-text p").addClass("animated fadeInDown").css("opacity", "1");
-		$(".org-farm-slider-text a").addClass("animated fadeInDown").css("opacity", "1");
+	$(".obs-agro-slider-area").on("translated.owl.carousel", function(){
+		$(".obs-agro-slider-text span, .obs-agro-slider-text h1, .obs-agro-slider-text .typewrite").addClass("animated fadeInUp").css("opacity", "1");
+		$(".obs-agro-slider-text p").addClass("animated fadeInDown").css("opacity", "1");
+		$(".obs-agro-slider-text a").addClass("animated fadeInDown").css("opacity", "1");
 	});
 
 	// Search Popup JS

@@ -480,27 +480,27 @@ textarea.form-control {
     opacity: 0;
   }
 }
-.org-farm-nav-style .main-nav {
+.obs-agro-nav-style .main-nav {
   position: unset;
   background-color: rgba(0, 0, 0, 0);
 }
-.org-farm-nav-style .main-nav .navbar {
+.obs-agro-nav-style .main-nav .navbar {
   padding: 0;
 }
-.org-farm-nav-style .main-nav nav .navbar-nav .nav-item a {
+.obs-agro-nav-style .main-nav nav .navbar-nav .nav-item a {
   font-weight: normal;
   margin-right: 15px;
   text-transform: capitalize;
   color: #333;
   font-weight: 600;
 }
-.org-farm-nav-style .main-nav nav .navbar-nav .nav-item a i {
+.obs-agro-nav-style .main-nav nav .navbar-nav .nav-item a i {
   position: relative;
   left: 5px;
   font-size: 11px;
   font-weight: 700;
 }
-.org-farm-nav-style
+.obs-agro-nav-style
   .main-nav
   nav
   .navbar-nav
@@ -509,7 +509,7 @@ textarea.form-control {
   .flaticon-substract-1 {
   margin-left: -13px;
 }
-.org-farm-nav-style .main-nav nav .navbar-nav .nav-item .dropdown-menu {
+.obs-agro-nav-style .main-nav nav .navbar-nav .nav-item .dropdown-menu {
   border-radius: 0;
   background-color: #fff;
   border: none;
@@ -517,7 +517,7 @@ textarea.form-control {
   padding-top: 0;
   padding-bottom: 0;
 }
-.org-farm-nav-style .main-nav nav .navbar-nav .nav-item .dropdown-menu li a {
+.obs-agro-nav-style .main-nav nav .navbar-nav .nav-item .dropdown-menu li a {
   font-size: 14px;
   font-weight: 600;
   text-transform: capitalize;
@@ -526,7 +526,7 @@ textarea.form-control {
   color: #333;
   border-bottom: 1px dashed #eee;
 }
-.org-farm-nav-style
+.obs-agro-nav-style
   .main-nav
   nav
   .navbar-nav
@@ -537,7 +537,7 @@ textarea.form-control {
   left: 100%;
   top: 0 !important;
 }
-.org-farm-nav-style .main-nav nav .navbar-nav .nav-item a::before {
+.obs-agro-nav-style .main-nav nav .navbar-nav .nav-item a::before {
   content: "";
   position: absolute;
   bottom: -5px;
@@ -552,21 +552,21 @@ textarea.form-control {
   transition: all 0.5s;
   display: none;
 }
-.org-farm-nav-style .main-nav nav .navbar-nav .nav-item a:hover {
+.obs-agro-nav-style .main-nav nav .navbar-nav .nav-item a:hover {
   color: #3a8d00;
   position: relative;
 }
-.org-farm-nav-style .main-nav nav .navbar-nav .nav-item a:hover::before {
+.obs-agro-nav-style .main-nav nav .navbar-nav .nav-item a:hover::before {
   transform: scale(1);
   transition: all 0.5s;
   width: 5px;
   height: 5px;
 }
-.org-farm-nav-style .main-nav nav .navbar-nav .nav-item a:focus {
+.obs-agro-nav-style .main-nav nav .navbar-nav .nav-item a:focus {
   color: #3a8d00;
   position: relative;
 }
-.org-farm-nav-style .main-nav nav .navbar-nav .nav-item a:focus::before {
+.obs-agro-nav-style .main-nav nav .navbar-nav .nav-item a:focus::before {
   content: "";
   position: absolute;
   bottom: -5px;
@@ -578,11 +578,11 @@ textarea.form-control {
   right: 0;
   margin: auto;
 }
-.org-farm-nav-style .main-nav nav .navbar-nav .nav-item a.active {
+.obs-agro-nav-style .main-nav nav .navbar-nav .nav-item a.active {
   color: #3a8d00;
   position: relative;
 }
-.org-farm-nav-style .main-nav nav .navbar-nav .nav-item a.active::before {
+.obs-agro-nav-style .main-nav nav .navbar-nav .nav-item a.active::before {
   content: "";
   position: absolute;
   bottom: -5px;
@@ -595,7 +595,7 @@ textarea.form-control {
   margin: auto;
   transform: scale(1);
 }
-.org-farm-nav-style
+.obs-agro-nav-style
   .main-nav
   nav
   .navbar-nav
@@ -606,7 +606,7 @@ textarea.form-control {
   color: #3a8d00;
   position: relative;
 }
-.org-farm-nav-style
+.obs-agro-nav-style
   .main-nav
   nav
   .navbar-nav
@@ -616,7 +616,7 @@ textarea.form-control {
   a.active::before {
   display: none;
 }
-.org-farm-nav-style
+.obs-agro-nav-style
   .main-nav
   nav
   .navbar-nav
@@ -627,7 +627,7 @@ textarea.form-control {
   color: #3a8d00;
   position: relative;
 }
-.org-farm-nav-style
+.obs-agro-nav-style
   .main-nav
   nav
   .navbar-nav
@@ -637,7 +637,7 @@ textarea.form-control {
   a:hover::before {
   display: none;
 }
-.org-farm-nav-style
+.obs-agro-nav-style
   .main-nav
   nav
   .navbar-nav
@@ -649,7 +649,7 @@ textarea.form-control {
   a {
   color: #333;
 }
-.org-farm-nav-style
+.obs-agro-nav-style
   .main-nav
   nav
   .navbar-nav
@@ -661,7 +661,7 @@ textarea.form-control {
   a:hover {
   color: #3a8d00;
 }
-.org-farm-nav-style
+.obs-agro-nav-style
   .main-nav
   nav
   .navbar-nav
@@ -673,7 +673,7 @@ textarea.form-control {
   a.active {
   color: #3a8d00 !important;
 }
-.org-farm-nav-style
+.obs-agro-nav-style
   .main-nav
   nav
   .navbar-nav
@@ -682,20 +682,20 @@ textarea.form-control {
   i {
   float: right;
 }
-.org-farm-nav-style .others-option .cart-icon {
+.obs-agro-nav-style .others-option .cart-icon {
   display: inline-block;
   position: relative;
   color: #fff;
   font-size: 17px;
   transition: all 0.5s;
 }
-.org-farm-nav-style .others-option .cart-icon span {
+.obs-agro-nav-style .others-option .cart-icon span {
   color: #fff;
 }
-.org-farm-nav-style .others-option .cart-icon:hover {
+.obs-agro-nav-style .others-option .cart-icon:hover {
   color: #fff;
 }
-.org-farm-nav-style .others-option .cart-icon span {
+.obs-agro-nav-style .others-option .cart-icon span {
   position: absolute;
   top: -4px;
   left: 11px;
@@ -708,7 +708,7 @@ textarea.form-control {
   font-size: 14px;
   transition: all 0.5s;
 }
-.org-farm-nav-style .others-option .sidebar-menu i {
+.obs-agro-nav-style .others-option .sidebar-menu i {
   color: #fe532f;
   width: 30px;
   height: 30px;
@@ -719,10 +719,10 @@ textarea.form-control {
   margin-left: 30px;
   transition: all 0.5s;
 }
-.org-farm-nav-style .others-option .sidebar-menu i:hover {
+.obs-agro-nav-style .others-option .sidebar-menu i:hover {
   background-color: #fff;
 }
-.org-farm-nav-style .search-box-item {
+.obs-agro-nav-style .search-box-item {
   display: inline-block;
   position: relative;
   margin-left: 35px;
@@ -730,10 +730,10 @@ textarea.form-control {
   cursor: pointer;
   width: 15px;
 }
-.org-farm-nav-style .search-box-item i {
+.obs-agro-nav-style .search-box-item i {
   font-size: 17px;
 }
-.org-farm-nav-style .search-box-item .search-overlay.search-popup {
+.obs-agro-nav-style .search-box-item .search-overlay.search-popup {
   position: absolute;
   top: 100%;
   width: 300px;
@@ -744,10 +744,10 @@ textarea.form-control {
   box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
   margin-top: 25px;
 }
-.org-farm-nav-style .search-box-item .search-overlay.search-popup .search-form {
+.obs-agro-nav-style .search-box-item .search-overlay.search-popup .search-form {
   position: relative;
 }
-.org-farm-nav-style
+.obs-agro-nav-style
   .search-box-item
   .search-overlay.search-popup
   .search-form
@@ -763,14 +763,14 @@ textarea.form-control {
   padding-top: 4px;
   padding-left: 10px;
 }
-.org-farm-nav-style
+.obs-agro-nav-style
   .search-box-item
   .search-overlay.search-popup
   .search-form
   .search-input:focus {
   border-color: #3a8d00;
 }
-.org-farm-nav-style
+.obs-agro-nav-style
   .search-box-item
   .search-overlay.search-popup
   .search-form
@@ -788,35 +788,35 @@ textarea.form-control {
   padding: 0;
   cursor: pointer;
 }
-.org-farm-nav-style
+.obs-agro-nav-style
   .search-box-item
   .search-overlay.search-popup
   .search-form
   .search-button:focus {
   color: #3a8d00;
 }
-.org-farm-nav-style .search-box-item .search-btn {
+.obs-agro-nav-style .search-box-item .search-btn {
   transition: all 0.5s;
 }
-.org-farm-nav-style .search-box-item .search-btn:hover {
+.obs-agro-nav-style .search-box-item .search-btn:hover {
   color: #fff;
 }
-.org-farm-nav-style .search-box-item .search-overlay {
+.obs-agro-nav-style .search-box-item .search-overlay {
   display: none;
 }
-.org-farm-nav-style .search-box-item .close-btn {
+.obs-agro-nav-style .search-box-item .close-btn {
   cursor: pointer;
   display: none;
   transition: 0.5s;
   color: #fff;
 }
-.org-farm-nav-style .search-box-item .close-btn:hover {
+.obs-agro-nav-style .search-box-item .close-btn:hover {
   color: #fff;
 }
-.org-farm-nav-style .search-box-item .close-btn.active {
+.obs-agro-nav-style .search-box-item .close-btn.active {
   display: block;
 }
-.org-farm-nav-style.is-sticky {
+.obs-agro-nav-style.is-sticky {
   position: fixed;
   top: 0;
   left: 0;
@@ -829,13 +829,13 @@ textarea.form-control {
   max-width: 100%;
   margin-top: 0;
 }
-.org-farm-nav-style.is-sticky .others-option .cart-icon {
+.obs-agro-nav-style.is-sticky .others-option .cart-icon {
   color: #3a8d00;
 }
-.org-farm-nav-style.is-sticky .others-option .cart-icon span {
+.obs-agro-nav-style.is-sticky .others-option .cart-icon span {
   color: #fff;
 }
-.org-farm-nav-style.is-sticky .others-option .cart-icon span {
+.obs-agro-nav-style.is-sticky .others-option .cart-icon span {
   position: absolute;
   top: -4px;
   left: 11px;
@@ -848,7 +848,7 @@ textarea.form-control {
   font-size: 14px;
   transition: all 0.5s;
 }
-.org-farm-nav-style.is-sticky .others-option .sidebar-menu i {
+.obs-agro-nav-style.is-sticky .others-option .sidebar-menu i {
   color: #fe532f;
   width: 30px;
   height: 30px;
@@ -860,19 +860,19 @@ textarea.form-control {
   margin-left: 30px;
   transition: all 0.5s;
 }
-.org-farm-nav-style.is-sticky .others-option .sidebar-menu i:hover {
+.obs-agro-nav-style.is-sticky .others-option .sidebar-menu i:hover {
   background-color: #3a8d00;
 }
-.org-farm-nav-style.is-sticky .search-box-item {
+.obs-agro-nav-style.is-sticky .search-box-item {
   color: #3a8d00;
 }
-.org-farm-nav-style.is-sticky .search-box-item .search-btn:hover {
+.obs-agro-nav-style.is-sticky .search-box-item .search-btn:hover {
   color: #3a8d00;
 }
-.org-farm-nav-style.is-sticky .search-box-item .close-btn {
+.obs-agro-nav-style.is-sticky .search-box-item .close-btn {
   color: #3a8d00;
 }
-.org-farm-nav-style.is-sticky .search-box-item .close-btn:hover {
+.obs-agro-nav-style.is-sticky .search-box-item .close-btn:hover {
   color: #3a8d00;
 }
 .dropdown-toggle::after {
@@ -4903,16 +4903,16 @@ blockquote::after {
   display: block;
   text-align: center;
 }
-.org-farm-nav-style-two .main-nav nav .navbar-nav .nav-item a {
+.obs-agro-nav-style-two .main-nav nav .navbar-nav .nav-item a {
   color: #fff;
 }
-.org-farm-nav-style-two .main-nav nav .navbar-nav .nav-item a.active {
+.obs-agro-nav-style-two .main-nav nav .navbar-nav .nav-item a.active {
   color: #50c5bc;
 }
-.org-farm-nav-style-two .main-nav nav .navbar-nav .nav-item a:hover {
+.obs-agro-nav-style-two .main-nav nav .navbar-nav .nav-item a:hover {
   color: #50c5bc;
 }
-.org-farm-nav-style-two
+.obs-agro-nav-style-two
   .main-nav
   nav
   .navbar-nav
@@ -4922,7 +4922,7 @@ blockquote::after {
   a.active {
   color: #50c5bc;
 }
-.org-farm-nav-style-two
+.obs-agro-nav-style-two
   .main-nav
   nav
   .navbar-nav
@@ -4932,7 +4932,7 @@ blockquote::after {
   a:hover {
   color: #50c5bc;
 }
-.org-farm-nav-style-two
+.obs-agro-nav-style-two
   .main-nav
   nav
   .navbar-nav
@@ -4944,7 +4944,7 @@ blockquote::after {
   a:hover {
   color: #50c5bc;
 }
-.org-farm-nav-style-two
+.obs-agro-nav-style-two
   .main-nav
   nav
   .navbar-nav
@@ -4956,29 +4956,29 @@ blockquote::after {
   a.active {
   color: #50c5bc;
 }
-.org-farm-nav-style-two.is-sticky {
+.obs-agro-nav-style-two.is-sticky {
   background-color: #000;
 }
-.org-farm-nav-style-two.is-sticky .search-box-item .search-btn {
+.obs-agro-nav-style-two.is-sticky .search-box-item .search-btn {
   color: #3a8d00;
 }
-.org-farm-nav-style-two .search-box-item .search-btn {
+.obs-agro-nav-style-two .search-box-item .search-btn {
   color: #fff;
 }
-.org-farm-nav-style-two .search-box-item .search-btn:hover {
+.obs-agro-nav-style-two .search-box-item .search-btn:hover {
   color: #50c5bc;
 }
-.org-farm-nav-style-two .others-option .cart-icon {
+.obs-agro-nav-style-two .others-option .cart-icon {
   color: #fff;
 }
-.org-farm-nav-style-two .others-option .cart-icon:hover {
+.obs-agro-nav-style-two .others-option .cart-icon:hover {
   color: #50c5bc;
 }
-.org-farm-nav-style-two .others-option .sidebar-menu i {
+.obs-agro-nav-style-two .others-option .sidebar-menu i {
   background-color: #fff;
   color: #3a8d00;
 }
-.org-farm-nav-style-two .others-option .sidebar-menu i:hover {
+.obs-agro-nav-style-two .others-option .sidebar-menu i:hover {
   background-color: #50c5bc;
 }
 .banner-area-two {
@@ -5437,16 +5437,16 @@ div#validator-newsletter {
 .footer-bottom-area-two {
   background-color: #8dc446;
 }
-.org-farm-nav-style-three .main-nav nav .navbar-nav .nav-item a {
+.obs-agro-nav-style-three .main-nav nav .navbar-nav .nav-item a {
   color: #fff;
 }
-.org-farm-nav-style-three .main-nav nav .navbar-nav .nav-item a.active {
+.obs-agro-nav-style-three .main-nav nav .navbar-nav .nav-item a.active {
   color: #fe532f;
 }
-.org-farm-nav-style-three .main-nav nav .navbar-nav .nav-item a:hover {
+.obs-agro-nav-style-three .main-nav nav .navbar-nav .nav-item a:hover {
   color: #fe532f;
 }
-.org-farm-nav-style-three
+.obs-agro-nav-style-three
   .main-nav
   nav
   .navbar-nav
@@ -5456,7 +5456,7 @@ div#validator-newsletter {
   a.active {
   color: #fe532f;
 }
-.org-farm-nav-style-three
+.obs-agro-nav-style-three
   .main-nav
   nav
   .navbar-nav
@@ -5466,7 +5466,7 @@ div#validator-newsletter {
   a:hover {
   color: #fe532f;
 }
-.org-farm-nav-style-three
+.obs-agro-nav-style-three
   .main-nav
   nav
   .navbar-nav
@@ -5478,7 +5478,7 @@ div#validator-newsletter {
   a:hover {
   color: #fe532f;
 }
-.org-farm-nav-style-three
+.obs-agro-nav-style-three
   .main-nav
   nav
   .navbar-nav
@@ -5490,10 +5490,10 @@ div#validator-newsletter {
   a.active {
   color: #fe532f;
 }
-.org-farm-nav-style-three.is-sticky .main-nav nav .navbar-nav .nav-item a {
+.obs-agro-nav-style-three.is-sticky .main-nav nav .navbar-nav .nav-item a {
   color: #3a8d00;
 }
-.org-farm-nav-style-three.is-sticky
+.obs-agro-nav-style-three.is-sticky
   .main-nav
   nav
   .navbar-nav
@@ -5501,7 +5501,7 @@ div#validator-newsletter {
   a.active {
   color: #fe532f;
 }
-.org-farm-nav-style-three.is-sticky
+.obs-agro-nav-style-three.is-sticky
   .main-nav
   nav
   .navbar-nav
@@ -5509,7 +5509,7 @@ div#validator-newsletter {
   a:hover {
   color: #fe532f;
 }
-.org-farm-nav-style-three.is-sticky
+.obs-agro-nav-style-three.is-sticky
   .main-nav
   nav
   .navbar-nav
@@ -5519,7 +5519,7 @@ div#validator-newsletter {
   a.active {
   color: #fe532f;
 }
-.org-farm-nav-style-three.is-sticky
+.obs-agro-nav-style-three.is-sticky
   .main-nav
   nav
   .navbar-nav
@@ -5529,7 +5529,7 @@ div#validator-newsletter {
   a:hover {
   color: #fe532f;
 }
-.org-farm-nav-style-three.is-sticky
+.obs-agro-nav-style-three.is-sticky
   .main-nav
   nav
   .navbar-nav
@@ -5541,11 +5541,11 @@ div#validator-newsletter {
   a:hover {
   color: #fe532f;
 }
-.org-farm-slider-area {
+.obs-agro-slider-area {
   position: relative;
   overflow: hidden;
 }
-.org-farm-slider-area .owl-next {
+.obs-agro-slider-area .owl-next {
   position: absolute;
   top: 39%;
   right: -50px;
@@ -5553,7 +5553,7 @@ div#validator-newsletter {
   border-radius: 0 !important;
   transition: all 0.5s;
 }
-.org-farm-slider-area .owl-next i {
+.obs-agro-slider-area .owl-next i {
   background-color: #fe532f !important;
   color: #fff;
   width: 40px;
@@ -5562,10 +5562,10 @@ div#validator-newsletter {
   display: inline-block;
   transition: all 0.5s;
 }
-.org-farm-slider-area .owl-next i:hover {
+.obs-agro-slider-area .owl-next i:hover {
   background-color: #3a8d00 !important;
 }
-.org-farm-slider-area .owl-prev {
+.obs-agro-slider-area .owl-prev {
   position: absolute;
   top: 39%;
   left: -50px;
@@ -5573,7 +5573,7 @@ div#validator-newsletter {
   border-radius: 0 !important;
   transition: all 0.5s;
 }
-.org-farm-slider-area .owl-prev i {
+.obs-agro-slider-area .owl-prev i {
   background-color: #fe532f !important;
   color: #fff;
   width: 40px;
@@ -5582,22 +5582,22 @@ div#validator-newsletter {
   display: inline-block;
   transition: all 0.5s;
 }
-.org-farm-slider-area .owl-prev i:hover {
+.obs-agro-slider-area .owl-prev i:hover {
   background-color: #3a8d00 !important;
 }
-.org-farm-slider-area:hover .owl-prev {
+.obs-agro-slider-area:hover .owl-prev {
   left: 0;
 }
-.org-farm-slider-area:hover .owl-next {
+.obs-agro-slider-area:hover .owl-next {
   right: 0;
 }
-.org-farm-slider-area .col-lg-5 {
+.obs-agro-slider-area .col-lg-5 {
   position: relative;
 }
-.org-farm-slider-area .owl-theme .owl-nav {
+.obs-agro-slider-area .owl-theme .owl-nav {
   margin-top: 0;
 }
-.org-farm-slider-item {
+.obs-agro-slider-item {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5606,7 +5606,7 @@ div#validator-newsletter {
   z-index: 1;
   padding: 260px 0 175px;
 }
-.org-farm-slider-item::after {
+.obs-agro-slider-item::after {
   content: "";
   position: absolute;
   bottom: 0;
@@ -5617,19 +5617,19 @@ div#validator-newsletter {
   z-index: -1;
   opacity: 0.7;
 }
-.org-farm-slider-item .org-farm-slider-text {
+.obs-agro-slider-item .obs-agro-slider-text {
   margin: 0;
 }
-.org-farm-slider-item .org-farm-slider-text span {
+.obs-agro-slider-item .obs-agro-slider-text span {
   color: #fff;
 }
-.org-farm-slider-item .org-farm-slider-text h1 {
+.obs-agro-slider-item .obs-agro-slider-text h1 {
   color: #fff;
 }
-.org-farm-slider-item .org-farm-slider-text p {
+.obs-agro-slider-item .obs-agro-slider-text p {
   color: #fff;
 }
-.org-farm-slider-item .org-farm-slider-text .video-btn {
+.obs-agro-slider-item .obs-agro-slider-text .video-btn {
   margin: auto;
   display: block;
 }
@@ -5870,45 +5870,45 @@ div#validator-newsletter {
   z-index: -1;
   border-radius: 4px;
 }
-.org-farm-nav-style-four .search-box-item .search-btn {
+.obs-agro-nav-style-four .search-box-item .search-btn {
   color: #fff;
 }
-.org-farm-nav-style-four .search-box-item .search-btn:hover {
+.obs-agro-nav-style-four .search-box-item .search-btn:hover {
   color: #fe532f;
 }
-.org-farm-nav-style-four .others-option .cart-icon {
+.obs-agro-nav-style-four .others-option .cart-icon {
   color: #fff;
 }
-.org-farm-nav-style-four .others-option .cart-icon:hover {
+.obs-agro-nav-style-four .others-option .cart-icon:hover {
   color: #fe532f;
 }
-.org-farm-nav-style-four .others-option .sidebar-menu i {
+.obs-agro-nav-style-four .others-option .sidebar-menu i {
   background-color: #fff;
   color: #3a8d00;
 }
-.org-farm-nav-style-four .others-option .sidebar-menu i:hover {
+.obs-agro-nav-style-four .others-option .sidebar-menu i:hover {
   background-color: #fe532f;
 }
-.org-farm-nav-style-four.is-sticky .search-box-item .search-btn {
+.obs-agro-nav-style-four.is-sticky .search-box-item .search-btn {
   color: #3a8d00;
 }
-.org-farm-nav-style-five .search-box-item .search-btn {
+.obs-agro-nav-style-five .search-box-item .search-btn {
   color: #3a8d00 !important;
 }
-.org-farm-nav-style-five .search-box-item .search-btn:hover {
+.obs-agro-nav-style-five .search-box-item .search-btn:hover {
   color: #fe532f;
 }
-.org-farm-nav-style-five .others-option .cart-icon {
+.obs-agro-nav-style-five .others-option .cart-icon {
   color: #3a8d00 !important;
 }
-.org-farm-nav-style-five .others-option .cart-icon:hover {
+.obs-agro-nav-style-five .others-option .cart-icon:hover {
   color: #fe532f;
 }
-.org-farm-nav-style-five .others-option .sidebar-menu i {
+.obs-agro-nav-style-five .others-option .sidebar-menu i {
   background-color: #3a8d00 !important;
   color: #fff;
 }
-.org-farm-nav-style-five .others-option .sidebar-menu i:hover {
+.obs-agro-nav-style-five .others-option .sidebar-menu i:hover {
   background-color: #fe532f;
 }
 .delivery-service.delivery-service-five {

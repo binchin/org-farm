@@ -21,7 +21,7 @@
   .sidebar-menu {
     display: none;
   }
-  .org-farm-nav-style .search-box-item {
+  .obs-agro-nav-style .search-box-item {
     display: none;
   }
   .others-option {
@@ -213,15 +213,15 @@
   section.why-choose-us-three {
     padding-bottom: 20px;
   }
-  .org-farm-slider-item {
+  .obs-agro-slider-item {
     height: 100%;
     padding-top: 145px;
     padding-bottom: 80px;
   }
-  .org-farm-slider-area .owl-prev {
+  .obs-agro-slider-area .owl-prev {
     top: 55%;
   }
-  .org-farm-slider-area .owl-next {
+  .obs-agro-slider-area .owl-next {
     top: 55%;
   }
   .about-aims-2 {
@@ -773,10 +773,10 @@
   .faq-accordion .accordion .accordion-content {
     padding: 20px;
   }
-  .org-farm-slider-text .banner-btn {
+  .obs-agro-slider-text .banner-btn {
     margin-left: 0;
   }
-  .org-farm-slider-text .default-btn {
+  .obs-agro-slider-text .default-btn {
     margin-left: 0 !important;
     margin-bottom: 30px;
   }
@@ -870,7 +870,7 @@
   .sidebar-menu {
     display: none;
   }
-  .org-farm-nav-style .search-box-item {
+  .obs-agro-nav-style .search-box-item {
     display: none;
   }
   .others-option {
@@ -1025,10 +1025,10 @@
   .testimonial-area-two .testimonial-bg-color::before {
     max-width: unset;
   }
-  .org-farm-slider-item .org-farm-slider-text {
+  .obs-agro-slider-item .obs-agro-slider-text {
     margin: auto;
   }
-  .org-farm-slider-item {
+  .obs-agro-slider-item {
     height: 100%;
     padding-top: 145px;
     padding-bottom: 80px;
@@ -1050,10 +1050,10 @@
   .why-choose-us-three {
     padding-bottom: 40px;
   }
-  .org-farm-slider-area .owl-prev {
+  .obs-agro-slider-area .owl-prev {
     top: 54%;
   }
-  .org-farm-slider-area .owl-next {
+  .obs-agro-slider-area .owl-next {
     top: 54%;
   }
   .our-event-time-area {
@@ -1272,7 +1272,7 @@
   .offer-area .offer-title h2 {
     font-size: 25px;
   }
-  .org-farm-slider-text .default-btn {
+  .obs-agro-slider-text .default-btn {
     margin-left: 0;
     margin-bottom: 30px;
   }
@@ -1294,7 +1294,7 @@
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .org-farm-nav-style .others-option {
+  .obs-agro-nav-style .others-option {
     margin-left: 25px;
   }
   .banner-area {
@@ -1328,12 +1328,12 @@
   .testimonial-area-two .testimonial-bg-color::before {
     max-width: 482px;
   }
-  .org-farm-slider-item {
+  .obs-agro-slider-item {
     height: 100%;
     padding-top: 306px;
     padding-bottom: 170px;
   }
-  .org-farm-slider-item .org-farm-slider-text {
+  .obs-agro-slider-item .obs-agro-slider-text {
     margin-top: -105px;
   }
   section.why-choose-us-three {
@@ -1415,10 +1415,10 @@
   .banner-area .shape-1 {
     width: 630px;
   }
-  .org-farm-slider-area .owl-next {
+  .obs-agro-slider-area .owl-next {
     top: 50%;
   }
-  .org-farm-slider-area .owl-prev {
+  .obs-agro-slider-area .owl-prev {
     top: 50%;
   }
   .banner-area-four .shape-text span {
@@ -1472,40 +1472,40 @@
   .mobile-nav.mean-container .mean-nav ul li a.active {
     color: #3a8d00;
   }
-  .org-farm-nav-style-two .others-option .cart-icon {
+  .obs-agro-nav-style-two .others-option .cart-icon {
     color: #50c5bc !important;
   }
-  .org-farm-nav-style-two .others-option .cart-icon span {
+  .obs-agro-nav-style-two .others-option .cart-icon span {
     background-color: #50c5bc;
   }
-  .org-farm-nav-style-two .mean-container a.meanmenu-reveal {
+  .obs-agro-nav-style-two .mean-container a.meanmenu-reveal {
     color: #50c5bc !important;
   }
-  .org-farm-nav-style-two .mean-container a.meanmenu-reveal span {
+  .obs-agro-nav-style-two .mean-container a.meanmenu-reveal span {
     background-color: #50c5bc;
   }
-  .org-farm-nav-style-two .mean-container .mean-nav ul li a.active {
+  .obs-agro-nav-style-two .mean-container .mean-nav ul li a.active {
     color: #50c5bc;
   }
-  .org-farm-nav-style-three .others-option .cart-icon {
+  .obs-agro-nav-style-three .others-option .cart-icon {
     color: #fe532f !important;
   }
-  .org-farm-nav-style-three .others-option .cart-icon span {
+  .obs-agro-nav-style-three .others-option .cart-icon span {
     background-color: #fe532f;
   }
-  .org-farm-nav-style-three .mean-container a.meanmenu-reveal {
+  .obs-agro-nav-style-three .mean-container a.meanmenu-reveal {
     color: #fe532f !important;
   }
-  .org-farm-nav-style-three .mean-container a.meanmenu-reveal span {
+  .obs-agro-nav-style-three .mean-container a.meanmenu-reveal span {
     background-color: #fe532f;
   }
-  .org-farm-nav-style-three .mean-container .mean-nav ul li a.active {
+  .obs-agro-nav-style-three .mean-container .mean-nav ul li a.active {
     color: #fe532f;
   }
-  .org-farm-nav-style-four .others-option .cart-icon {
+  .obs-agro-nav-style-four .others-option .cart-icon {
     color: #3a8d00;
   }
-  .org-farm-nav-style .others-option .cart-icon {
+  .obs-agro-nav-style .others-option .cart-icon {
     color: #3a8d00;
   }
   .mean-container a.meanmenu-reveal {
