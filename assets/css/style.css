@@ -435,7 +435,7 @@ textarea.form-control {
 }
 
 .default-btn.default-btn-2 {
-    background-color: #50c5bc;
+    background-color: #eb8c23;
     color: #fff;
 }
 
@@ -512,7 +512,7 @@ textarea.form-control {
 }
 
 .section-title.section-title-two span {
-    color: #50c5bc;
+    color: #eb8c23;
 }
 
 .preloader {
@@ -1529,7 +1529,7 @@ textarea.form-control {
 }
 
 .service-area .owl-next i {
-    background-color: #50c5bc !important;
+    background-color: #eb8c23 !important;
     color: #fff;
     width: 30px;
     height: 30px;
@@ -1551,7 +1551,7 @@ textarea.form-control {
 }
 
 .service-area .owl-prev i {
-    background-color: #50c5bc !important;
+    background-color: #eb8c23 !important;
     color: #fff;
     width: 30px;
     height: 30px;
@@ -2335,7 +2335,7 @@ textarea.form-control {
 }
 
 .footer-bottom-area p a {
-    color: #50c5bc;
+    color: #eb8c23;
 }
 
 .footer-bottom-area p a:hover {
@@ -5330,27 +5330,27 @@ blockquote::after {
 }
 
 .obs-agro-nav-style-two .main-nav nav .navbar-nav .nav-item a.active {
-    color: #50c5bc;
+    color: #eb8c23;
 }
 
 .obs-agro-nav-style-two .main-nav nav .navbar-nav .nav-item a:hover {
-    color: #50c5bc;
+    color: #eb8c23;
 }
 
 .obs-agro-nav-style-two .main-nav nav .navbar-nav .nav-item .dropdown-menu li a.active {
-    color: #50c5bc;
+    color: #eb8c23;
 }
 
 .obs-agro-nav-style-two .main-nav nav .navbar-nav .nav-item .dropdown-menu li a:hover {
-    color: #50c5bc;
+    color: #eb8c23;
 }
 
 .obs-agro-nav-style-two .main-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover {
-    color: #50c5bc;
+    color: #eb8c23;
 }
 
 .obs-agro-nav-style-two .main-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a.active {
-    color: #50c5bc;
+    color: #eb8c23;
 }
 
 .obs-agro-nav-style-two.is-sticky {
@@ -5366,7 +5366,7 @@ blockquote::after {
 }
 
 .obs-agro-nav-style-two .search-box-item .search-btn:hover {
-    color: #50c5bc;
+    color: #eb8c23;
 }
 
 .obs-agro-nav-style-two .others-option .cart-icon {
@@ -5374,7 +5374,7 @@ blockquote::after {
 }
 
 .obs-agro-nav-style-two .others-option .cart-icon:hover {
-    color: #50c5bc;
+    color: #eb8c23;
 }
 
 .obs-agro-nav-style-two .others-option .sidebar-menu i {
@@ -5383,7 +5383,7 @@ blockquote::after {
 }
 
 .obs-agro-nav-style-two .others-option .sidebar-menu i:hover {
-    background-color: #50c5bc;
+    background-color: #eb8c23;
 }
 
 .banner-area-two {
@@ -5432,15 +5432,15 @@ blockquote::after {
 }
 
 .banner-area-two .banner-text .video-btn {
-    background-color: #50c5bc;
+    background-color: #eb8c23;
 }
 
 .banner-area-two .banner-text .video-btn::after {
-    border: 1px solid #50c5bc;
+    border: 1px solid #eb8c23;
 }
 
 .banner-area-two .banner-text .video-btn::before {
-    border: 1px solid #50c5bc;
+    border: 1px solid #eb8c23;
 }
 
 .banner-area-two .banner-text .banner-btn .video-wrap .video-btn-wrap {
@@ -5456,30 +5456,30 @@ blockquote::after {
 }
 
 .our-product-area-two .shorting-menu .filter {
-    border: 1px solid #50c5bc;
-    color: #50c5bc;
+    border: 1px solid #eb8c23;
+    color: #eb8c23;
 }
 
 .our-product-area-two .shorting-menu .filter:hover {
-    background-color: #50c5bc;
+    background-color: #eb8c23;
     color: #fff;
 }
 
 .our-product-area-two .shorting-menu .filter.active {
-    background-color: #50c5bc;
+    background-color: #eb8c23;
     color: #fff;
 }
 
 .our-product-area-two .single-product-box .product-content ul li i {
-    color: #50c5bc;
+    color: #eb8c23;
 }
 
 .offer-area-two .offer-logo {
-    background-color: #50c5bc;
+    background-color: #eb8c23;
 }
 
 .offer-area-two .offer-logo::after {
-    border: 3px dotted #50c5bc;
+    border: 3px dotted #eb8c23;
 }
 
 .team-area .owl-item.active.center .single-team {
@@ -5560,7 +5560,7 @@ blockquote::after {
 }
 
 .single-team {
-    background-color: #50c5bc;
+    background-color: #eb8c23;
 }
 
 .single-team .team-text {
@@ -5620,7 +5620,7 @@ blockquote::after {
 }
 
 .single-team .team-img .team-icon li a:hover {
-    color: #50c5bc;
+    color: #eb8c23;
     background-color: #fff;
 }
 
@@ -5658,7 +5658,7 @@ blockquote::after {
 }
 
 .our-gallery-area-two .single-gallery .gallery-content h3 {
-    background-color: #50c5bc;
+    background-color: #eb8c23;
 }
 
 .our-gallery-area-two .single-gallery .gallery-content h3:hover {
@@ -5696,8 +5696,8 @@ blockquote::after {
     height: 50px;
     text-align: center;
     border-radius: 50%;
-    border: 2px dotted #50c5bc;
-    color: #50c5bc;
+    border: 2px dotted #eb8c23;
+    color: #eb8c23;
     transition: all 0.5s;
 }
 
@@ -5930,12 +5930,12 @@ div#validator-newsletter {
 }
 
 .footer-top-area-two .single-widget .social-icon li a i {
-    background-color: #50c5bc;
+    background-color: #eb8c23;
 }
 
 .footer-top-area-two .single-widget .social-icon li:hover a i {
     background-color: #fff;
-    color: #50c5bc;
+    color: #eb8c23;
 }
 
 .footer-bottom-area-two {
@@ -5943,7 +5943,7 @@ div#validator-newsletter {
 }
 
 .obs-agro-nav-style-three .main-nav nav .navbar-nav .nav-item a {
-    color: #fff;
+    color: #44703e;
 }
 
 .obs-agro-nav-style-three .main-nav nav .navbar-nav .nav-item a.active {
