@@ -21,7 +21,7 @@
     .sidebar-menu {
         display: none;
     }
-    .obs-agro-nav-style .search-box-item {
+    .osb-agro-nav-style .search-box-item {
         display: none;
     }
     .others-option {
@@ -213,15 +213,15 @@
     section.why-choose-us-three {
         padding-bottom: 20px;
     }
-    .obs-agro-slider-item {
+    .osb-agro-slider-item {
         height: 100%;
         padding-top: 145px;
         padding-bottom: 80px;
     }
-    .obs-agro-slider-area .owl-prev {
+    .osb-agro-slider-area .owl-prev {
         top: 55%;
     }
-    .obs-agro-slider-area .owl-next {
+    .osb-agro-slider-area .owl-next {
         top: 55%;
     }
     .about-aims-2 {
@@ -700,10 +700,10 @@
     .faq-accordion .accordion .accordion-content {
         padding: 20px;
     }
-    .obs-agro-slider-text .banner-btn {
+    .osb-agro-slider-text .banner-btn {
         margin-left: 0;
     }
-    .obs-agro-slider-text .default-btn {
+    .osb-agro-slider-text .default-btn {
         margin-left: 0 !important;
         margin-bottom: 30px;
     }
@@ -799,7 +799,7 @@
     .sidebar-menu {
         display: none;
     }
-    .obs-agro-nav-style .search-box-item {
+    .osb-agro-nav-style .search-box-item {
         display: none;
     }
     .others-option {
@@ -954,10 +954,10 @@
     .testimonial-area-two .testimonial-bg-color::before {
         max-width: unset;
     }
-    .obs-agro-slider-item .obs-agro-slider-text {
+    .osb-agro-slider-item .osb-agro-slider-text {
         margin: auto;
     }
-    .obs-agro-slider-item {
+    .osb-agro-slider-item {
         height: 100%;
         padding-top: 145px;
         padding-bottom: 80px;
@@ -979,10 +979,10 @@
     .why-choose-us-three {
         padding-bottom: 40px;
     }
-    .obs-agro-slider-area .owl-prev {
+    .osb-agro-slider-area .owl-prev {
         top: 54%;
     }
-    .obs-agro-slider-area .owl-next {
+    .osb-agro-slider-area .owl-next {
         top: 54%;
     }
     .our-event-time-area {
@@ -1201,7 +1201,7 @@
     .offer-area .offer-title h2 {
         font-size: 25px;
     }
-    .obs-agro-slider-text .default-btn {
+    .osb-agro-slider-text .default-btn {
         margin-left: 0;
         margin-bottom: 30px;
     }
@@ -1224,7 +1224,7 @@
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    .obs-agro-nav-style .others-option {
+    .osb-agro-nav-style .others-option {
         margin-left: 25px;
     }
     .banner-area {
@@ -1258,12 +1258,12 @@
     .testimonial-area-two .testimonial-bg-color::before {
         max-width: 482px;
     }
-    .obs-agro-slider-item {
+    .osb-agro-slider-item {
         height: 100%;
         padding-top: 306px;
         padding-bottom: 170px;
     }
-    .obs-agro-slider-item .obs-agro-slider-text {
+    .osb-agro-slider-item .osb-agro-slider-text {
         margin-top: -105px;
     }
     section.why-choose-us-three {
@@ -1346,10 +1346,10 @@
     .banner-area .shape-1 {
         width: 630px;
     }
-    .obs-agro-slider-area .owl-next {
+    .osb-agro-slider-area .owl-next {
         top: 50%;
     }
-    .obs-agro-slider-area .owl-prev {
+    .osb-agro-slider-area .owl-prev {
         top: 50%;
     }
     .banner-area-four .shape-text span {
@@ -1404,40 +1404,40 @@
     .mobile-nav.mean-container .mean-nav ul li a.active {
         color: #44703e;
     }
-    .obs-agro-nav-style-two .others-option .cart-icon {
+    .osb-agro-nav-style-two .others-option .cart-icon {
         color: #eb8c23 !important;
     }
-    .obs-agro-nav-style-two .others-option .cart-icon span {
+    .osb-agro-nav-style-two .others-option .cart-icon span {
         background-color: #eb8c23;
     }
-    .obs-agro-nav-style-two .mean-container a.meanmenu-reveal {
+    .osb-agro-nav-style-two .mean-container a.meanmenu-reveal {
         color: #eb8c23 !important;
     }
-    .obs-agro-nav-style-two .mean-container a.meanmenu-reveal span {
+    .osb-agro-nav-style-two .mean-container a.meanmenu-reveal span {
         background-color: #eb8c23;
     }
-    .obs-agro-nav-style-two .mean-container .mean-nav ul li a.active {
+    .osb-agro-nav-style-two .mean-container .mean-nav ul li a.active {
         color: #eb8c23;
     }
-    .obs-agro-nav-style-three .others-option .cart-icon {
+    .osb-agro-nav-style-three .others-option .cart-icon {
         color: #eb8c23 !important;
     }
-    .obs-agro-nav-style-three .others-option .cart-icon span {
+    .osb-agro-nav-style-three .others-option .cart-icon span {
         background-color: #eb8c23;
     }
-    .obs-agro-nav-style-three .mean-container a.meanmenu-reveal {
+    .osb-agro-nav-style-three .mean-container a.meanmenu-reveal {
         color: #eb8c23 !important;
     }
-    .obs-agro-nav-style-three .mean-container a.meanmenu-reveal span {
+    .osb-agro-nav-style-three .mean-container a.meanmenu-reveal span {
         background-color: #eb8c23;
     }
-    .obs-agro-nav-style-three .mean-container .mean-nav ul li a.active {
+    .osb-agro-nav-style-three .mean-container .mean-nav ul li a.active {
         color: #eb8c23;
     }
-    .obs-agro-nav-style-four .others-option .cart-icon {
+    .osb-agro-nav-style-four .others-option .cart-icon {
         color: #44703e;
     }
-    .obs-agro-nav-style .others-option .cart-icon {
+    .osb-agro-nav-style .others-option .cart-icon {
         color: #44703e;
     }
     .mean-container a.meanmenu-reveal {
