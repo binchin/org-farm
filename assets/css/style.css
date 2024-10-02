@@ -808,7 +808,24 @@ textarea.form-control {
     padding-left: 10px;
 }
 
+.search-input {
+    display: block;
+    width: 100%;
+    height: 50px;
+    line-height: initial;
+    border: 1px solid #eee;
+    color: #212529;
+    outline: 0;
+    transition: 0.5s;
+    padding-top: 4px;
+    padding-left: 10px;
+}
+
 .osb-agro-nav-style .search-box-item .search-overlay.search-popup .search-form .search-input:focus {
+    border-color: #44703e;
+}
+
+.search-input:focus {
     border-color: #44703e;
 }
 
@@ -3833,10 +3850,14 @@ blockquote::after {
     background-color: #44703e;
 }
 
-.widget-area .widget {
+.widget-area  .widget {
     margin-top: 35px;
     box-shadow: 0px 0px 29px 0px rgba(102, 102, 102, 0.08);
     background-color: #fff;
+    padding: 25px;
+}
+
+.widget-area-search  .widget {
     padding: 25px;
 }
 
@@ -3864,7 +3885,31 @@ blockquote::after {
     height: 1px;
 }
 
-.widget-area .widget_search form {
+.widget-area .widget:first-child {
+    margin-top: 0;
+}
+
+.widget-area-search .widget .widget-title {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    position: relative;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.widget-area-search .widget .widget-title::before {
+    content: "";
+    position: absolute;
+    background: #44703e;
+    bottom: -1px;
+    left: 0;
+    width: 50px;
+    height: 1px;
+}
+
+.widget-area-search .widget_search form {
     position: relative;
 }
 
@@ -3907,6 +3952,53 @@ blockquote::after {
 }
 
 .widget-area .widget_search form button:hover {
+    background-color: #44703e;
+}
+
+
+.widget-area-search .widget_search form {
+    position: relative;
+}
+
+.widget-area-search .widget_search form label {
+    display: block;
+    margin-bottom: 0;
+}
+
+.widget-area-search .widget_search form .screen-reader-text {
+    display: none;
+}
+
+.widget-area-search .widget_search form .search-field {
+    background-color: rgba(0, 0, 0, 0);
+    height: 50px;
+    padding: 6px 15px;
+    border: 1px solid #eee;
+    width: 100%;
+    display: block;
+    outline: 0;
+    transition: 0.5s;
+}
+
+.widget-area-search .widget_search form .search-field:focus {
+    border-color: #44703e;
+}
+
+.widget-area-search .widget_search form button {
+    position: absolute;
+    right: 0;
+    outline: 0;
+    bottom: 0;
+    height: 50px;
+    width: 50px;
+    border: none;
+    color: #fff;
+    background-color: #44703e;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.widget-area-search .widget_search form button:hover {
     background-color: #44703e;
 }
 
